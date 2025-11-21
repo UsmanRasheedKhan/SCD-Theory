@@ -22,5 +22,7 @@ namespace technova_ecom.Models.Entities
         [Column("display_order")]
         public int Display_order { get; set; }
 
+        //CATEGORY HAS MANY PRODUCTS 
+        public ICollection<Products> Products { get; set; } 
     }
 }

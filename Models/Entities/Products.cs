@@ -30,5 +30,12 @@ namespace technova_ecom.Models.Entities
 
         [Column("ratings")]
         public decimal Rating { get; set; }
+
+        //FORIEGN KEY
+        [Column("category_id")]
+        public int CategoryID { get; set; }
+
+        [ForeignKey("CategoryID")]
+        public Category Category { get; set; }
     }
 }

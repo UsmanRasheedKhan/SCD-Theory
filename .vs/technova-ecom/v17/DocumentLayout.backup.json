@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\2212191\\Desktop\\SCD Theory\\technova-ecom-sol\\technova-ecom\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E8FAA72-49A5-47F3-9867-4DCD2A46C2A7}|technova-ecom.csproj|c:\\users\\2212191\\desktop\\scd theory\\technova-ecom-sol\\technova-ecom\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E8FAA72-49A5-47F3-9867-4DCD2A46C2A7}|technova-ecom.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E8FAA72-49A5-47F3-9867-4DCD2A46C2A7}|technova-ecom.csproj|c:\\users\\2212191\\desktop\\scd theory\\technova-ecom-sol\\technova-ecom\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E8FAA72-49A5-47F3-9867-4DCD2A46C2A7}|technova-ecom.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8FAA72-49A5-47F3-9867-4DCD2A46C2A7}|technova-ecom.csproj|c:\\users\\2212191\\desktop\\scd theory\\technova-ecom-sol\\technova-ecom\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E8FAA72-49A5-47F3-9867-4DCD2A46C2A7}|technova-ecom.csproj|solutionrelative:views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8FAA72-49A5-47F3-9867-4DCD2A46C2A7}|technova-ecom.csproj|c:\\users\\2212191\\desktop\\scd theory\\technova-ecom-sol\\technova-ecom\\models\\entities\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8FAA72-49A5-47F3-9867-4DCD2A46C2A7}|technova-ecom.csproj|solutionrelative:models\\entities\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7E8FAA72-49A5-47F3-9867-4DCD2A46C2A7}|technova-ecom.csproj|c:\\users\\2212191\\desktop\\scd theory\\technova-ecom-sol\\technova-ecom\\models\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E8FAA72-49A5-47F3-9867-4DCD2A46C2A7}|technova-ecom.csproj|solutionrelative:models\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8FAA72-49A5-47F3-9867-4DCD2A46C2A7}|technova-ecom.csproj|c:\\users\\2212191\\desktop\\scd theory\\technova-ecom-sol\\technova-ecom\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E8FAA72-49A5-47F3-9867-4DCD2A46C2A7}|technova-ecom.csproj|solutionrelative:views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8FAA72-49A5-47F3-9867-4DCD2A46C2A7}|technova-ecom.csproj|c:\\users\\2212191\\desktop\\scd theory\\technova-ecom-sol\\technova-ecom\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E8FAA72-49A5-47F3-9867-4DCD2A46C2A7}|technova-ecom.csproj|solutionrelative:views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8FAA72-49A5-47F3-9867-4DCD2A46C2A7}|technova-ecom.csproj|c:\\users\\2212191\\desktop\\scd theory\\technova-ecom-sol\\technova-ecom\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8FAA72-49A5-47F3-9867-4DCD2A46C2A7}|technova-ecom.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7E8FAA72-49A5-47F3-9867-4DCD2A46C2A7}|technova-ecom.csproj|c:\\users\\2212191\\desktop\\scd theory\\technova-ecom-sol\\technova-ecom\\models\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,24 +42,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\2212191\\Desktop\\SCD Theory\\technova-ecom-sol\\technova-ecom\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\2212191\\Desktop\\SCD Theory\\technova-ecom-sol\\technova-ecom\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACwAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T05:12:18.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\2212191\\Desktop\\SCD Theory\\technova-ecom-sol\\technova-ecom\\Models\\Entities\\Products.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Products.cs",
+              "ToolTip": "C:\\Users\\2212191\\Desktop\\SCD Theory\\technova-ecom-sol\\technova-ecom\\Models\\Entities\\Products.cs",
+              "RelativeToolTip": "Models\\Entities\\Products.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA0wCUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T04:45:35.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\2212191\\Desktop\\SCD Theory\\technova-ecom-sol\\technova-ecom\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\2212191\\Desktop\\SCD Theory\\technova-ecom-sol\\technova-ecom\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T04:30:19.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\2212191\\Desktop\\SCD Theory\\technova-ecom-sol\\technova-ecom\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\2212191\\Desktop\\SCD Theory\\technova-ecom-sol\\technova-ecom\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwCYAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T04:27:30.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\2212191\\Desktop\\SCD Theory\\technova-ecom-sol\\technova-ecom\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\2212191\\Desktop\\SCD Theory\\technova-ecom-sol\\technova-ecom\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T04:22:44.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\2212191\\Desktop\\SCD Theory\\technova-ecom-sol\\technova-ecom\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
               "ToolTip": "C:\\Users\\2212191\\Desktop\\SCD Theory\\technova-ecom-sol\\technova-ecom\\Controllers\\CategoriesController.cs",
               "RelativeToolTip": "Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-21T04:18:01.483Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "DatabaseContext.cs",
               "DocumentMoniker": "C:\\Users\\2212191\\Desktop\\SCD Theory\\technova-ecom-sol\\technova-ecom\\Models\\DatabaseContext.cs",
               "RelativeDocumentMoniker": "Models\\DatabaseContext.cs",
@@ -52,13 +137,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\2212191\\Desktop\\SCD Theory\\technova-ecom-sol\\technova-ecom\\Models\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "Models\\Entities\\Category.cs",
               "ToolTip": "C:\\Users\\2212191\\Desktop\\SCD Theory\\technova-ecom-sol\\technova-ecom\\Models\\Entities\\Category.cs",
               "RelativeToolTip": "Models\\Entities\\Category.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBAAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBkAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-21T03:56:53.953Z",
               "EditorCaption": ""
