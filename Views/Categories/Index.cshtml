@@ -1,0 +1,41 @@
+﻿@model IEnumerable<technova_ecom.Models.Entities.Category>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>List of Categories</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr class="table-secondary">
+            <th>
+                @Html.DisplayNameFor(model => model.CategoryName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Display_order)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr class="table-secondary">
+            <td>
+                @Html.DisplayFor(modelItem => item.CategoryName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Display_order)
+            </td>
+            <td>
+                    <a asp-action="Edit" asp-route-id="@item.CategoryId" class="badge rounded-pill bg-primary">Edit</a>
+                    <a asp-action="Details" asp-route-id="@item.CategoryId" class="badge rounded-pill bg-success">Details</a>
+                    <a asp-action="Delete" asp-route-id="@item.CategoryId" class="badge rounded-pill bg-danger">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
