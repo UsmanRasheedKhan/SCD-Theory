@@ -23,6 +23,6 @@ namespace technova_ecom.Models.Entities
         public int Display_order { get; set; }
 
         //CATEGORY HAS MANY PRODUCTS 
-        public ICollection<Products> Products { get; set; } 
+        public ICollection<Products>? Products { get; set; } 
     }
 }
