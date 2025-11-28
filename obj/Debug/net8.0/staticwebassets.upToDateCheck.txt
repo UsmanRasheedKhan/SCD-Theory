@@ -1,6 +1,4 @@
-wwwroot\bootswatch-css\bootstrap.css
 wwwroot\bootswatch-css\bootstrap.min.css
-wwwroot\bootswatch-css\bootstrap.rtl.css
 wwwroot\bootswatch-css\bootstrap.rtl.min.css
 wwwroot\bootswatch-css\_bootswatch.scss
 wwwroot\bootswatch-css\_variables.scss
@@ -64,3 +62,5 @@ wwwroot\lib\jquery\dist\jquery.js
 wwwroot\lib\jquery\dist\jquery.min.js
 wwwroot\lib\jquery\dist\jquery.min.map
 wwwroot\lib\jquery\LICENSE.txt
+wwwroot\bootswatch-css\bootstrap.css
+wwwroot\bootswatch-css\bootstrap.rtl.css

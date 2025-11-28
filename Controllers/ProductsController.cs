@@ -22,7 +22,8 @@ namespace technova_ecom.Controllers
         // GET: Products
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Products.ToListAsync());
+            var products = await _context.Products.Include(p => p.Category).ToListAsync();
+            return View(products);
         }
 
         // GET: Products/Details/5
@@ -46,6 +47,7 @@ namespace technova_ecom.Controllers
         // GET: Products/Create
         public IActionResult Create()
         {
+            ViewBag.Categories = new SelectList(_context.Categories, "CategoryId", "CategoryName");
             return View();
         }
 
@@ -54,7 +56,7 @@ namespace technova_ecom.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("ProductId,ProductName,price,Description,Quantity,Rating")] Products products)
+        public async Task<IActionResult> Create([Bind("ProductId,ProductName,price,Description,Quantity,Rating,CategoryID")] Products products)
         {
             if (ModelState.IsValid)
             {
