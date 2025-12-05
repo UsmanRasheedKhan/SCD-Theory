@@ -256,3 +256,4 @@ C:\Users\2212191\Desktop\SCD Theory\technova-ecom-sol\technova-ecom\bin\Debug\ne
 C:\Users\2212191\Desktop\SCD Theory\technova-ecom-sol\technova-ecom\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\2212191\Desktop\SCD Theory\technova-ecom-sol\technova-ecom\obj\Debug\net8.0\technova-ecom.sourcelink.json
 C:\Users\2212191\Desktop\SCD Theory\technova-ecom-sol\technova-ecom\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\2212191\Desktop\SCD Theory\technova-ecom-sol\technova-ecom\bin\Debug\net8.0\BCrypt.Net-Core.dll
