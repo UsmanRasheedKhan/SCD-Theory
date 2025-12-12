@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Models;
 using technova_ecom.Models.Entities;
+using Microsoft.EntityFrameworkCore;
 
 namespace technova_ecom.Controllers
 {
@@ -51,8 +52,10 @@ namespace technova_ecom.Controllers
             {
                 if (_db.Users.Any(u => u.UserName == user.UserName))
                 {
-                    var loggedInUser = await _db.Users.FirstOrDefault(u => u.UserName.Equals(user.UserName));
+                    //var loggedInUser = await _db.Users.FirstOrDefault(u => u.UserName.Equals(user.UserName));
                     //user.HashedPassword = BCrypt.Net.BCrypt.HashPassword(user.HashedPassword);
+                    var loggedInUser = await _db.Users.FirstOrDefaultAsync(u => u.UserName == user.UserName);
+
 
                     if (BCrypt.Net.BCrypt.Verify(user.HashedPassword, loggedInUser.HashedPassword))
                     {

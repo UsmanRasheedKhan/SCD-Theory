@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("technova-ecom")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+491b7d9e880017648c2837c68798947355395f89")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cf76dc8cf3161bc84fd2984cb9921e5f728cc32")]
 [assembly: System.Reflection.AssemblyProductAttribute("technova-ecom")]
 [assembly: System.Reflection.AssemblyTitleAttribute("technova-ecom")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -42,8 +42,7 @@
               "RelativeToolTip": "Models\\Entities\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T03:34:42.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-05T03:34:42.948Z"
             },
             {
               "$type": "Document",
@@ -55,8 +54,7 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAACoAAAAAAAAAAAAhwD4AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-21T04:27:30.068Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-21T04:27:30.068Z"
             },
             {
               "$type": "Document",
@@ -68,8 +66,7 @@
               "RelativeToolTip": "Views\\Auth\\Login.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-05T04:05:24.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-05T04:05:24.164Z"
             },
             {
               "$type": "Document",
@@ -81,8 +78,7 @@
               "RelativeToolTip": "Views\\Auth\\Register.cshtml",
               "ViewState": "AgIAAAEAAAAAAAAAAAAQwBQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-05T04:06:11.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-05T04:06:11.865Z"
             },
             {
               "$type": "Document",
@@ -90,9 +86,9 @@
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\2212191\\Desktop\\SCD Theory\\technova-ecom-sol\\technova-ecom\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\2212191\\Desktop\\SCD Theory\\technova-ecom-sol\\technova-ecom\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAkwEQAAAAlAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\2212191\\Desktop\\SCD Theory\\technova-ecom-sol\\technova-ecom\\Controllers\\AuthController.cs*",
+              "RelativeToolTip": "Controllers\\AuthController.cs*",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwDoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-05T03:59:24.224Z",
               "EditorCaption": ""
